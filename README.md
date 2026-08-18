@@ -23,6 +23,11 @@ I'm a sophomore at Virginia Tech studying Business Information Technology with a
 
 **Personal Finance & Investment Tracker** — Full-stack fintech platform, solo build
 
+<details>
+<summary><b>Personal Finance & Investment Tracker</b> — Full-stack fintech platform, solo build</summary>
+
+<br>
+
 | Aspect | Detail |
 |---|---|
 | **Stack** | Python (FastAPI) · SQLAlchemy 2 · PostgreSQL · Redis · Next.js · React · TypeScript · Docker · Pytest |
@@ -32,6 +37,8 @@ I'm a sophomore at Virginia Tech studying Business Information Technology with a
 | **Repository** | [View Source →](https://github.com/Ryanc4boom/personal-finance-dashboard) |
 
 Architected a Plaid-integrated finance platform aggregating real-time accounts, holdings, and transactions across institutions, with an idempotent ingestion pipeline for multi-asset schemas and an automated equity research pipeline that scores public companies from SEC filings.
+
+</details>
 
 ## Tech Stack
 
