@@ -1,6 +1,7 @@
 <div align="center">
 
 # Hi, I'm Ryan Choi 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=BIT+%40+Virginia+Tech;Decision+Support+Systems;Fintech+%2B+Full-Stack+Dev)](https://github.com/Ryanc4boom)
 
 **Business Information Technology (Decision Support Systems) @ Virginia Tech**
 
@@ -16,7 +17,7 @@ I build full-stack data systems — currently focused on fintech, APIs, and appl
 
 ## About
 
-I'm a sophomore at Virginia Tech studying Business Information Technology with a concentration in Decision Support Systems and minoring in Computer Science. I like taking a real-world problem — usually finance-related — and building the full stack behind it: data ingestion, backend APIs, and the frontend that makes it usable.
+I'm a sophomore at Virginia Tech studying Business Information Technology with a concentration in Decision Support Systems and minoring in Computer Science. I like taking a real-world problem, that I or someone else has, and building the full stack behind it: data ingestion, backend APIs, and the frontend that makes it usable and precise for all. 
 
 ## Featured Projects
 
