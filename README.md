@@ -21,7 +21,6 @@ I'm a sophomore at Virginia Tech studying Business Information Technology with a
 
 ## Featured Projects
 
-**Personal Finance & Investment Tracker** — Full-stack fintech platform, solo build
 
 <details>
 <summary><b>Personal Finance & Investment Tracker</b> — Full-stack fintech platform, solo build</summary>
@@ -52,7 +51,7 @@ Architected a Plaid-integrated finance platform aggregating real-time accounts, 
 
 **Frontend & Tools**
 
-![](https://skillicons.dev/icons?i=nextjs,react,docker,git&theme=dark)
+![](https://skillicons.dev/icons?i=nextjs,vscode,react,docker,git&theme=dark)
 
 ## Education
 
