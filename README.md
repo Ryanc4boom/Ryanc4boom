@@ -16,7 +16,7 @@ I build full-stack data systems — currently focused on fintech, APIs, and appl
 
 ## About
 
-I'm a freshman at Virginia Tech studying Business Information Technology with a concentration in Decision Support Systems (minoring in Computer Science). I like taking a real-world problem — usually finance-related — and building the full stack behind it: data ingestion, backend APIs, and the frontend that makes it usable.
+I'm a sophomore at Virginia Tech studying Business Information Technology with a concentration in Decision Support Systems and minoring in Computer Science. I like taking a real-world problem — usually finance-related — and building the full stack behind it: data ingestion, backend APIs, and the frontend that makes it usable.
 
 ## Featured Projects
 
