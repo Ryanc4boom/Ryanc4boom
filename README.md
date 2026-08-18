@@ -61,6 +61,3 @@ September 2025 – May 2029 | Blacksburg, VA
 **B.S. in Business Information Technology, Decision Support Systems Concentration**
 Minor in Computer Science (in progress)
 
-## GitHub Stats
-
-![](https://streak-stats.demolab.com/?user=Ryanc4boom&hide_border=true&background=0D1117&stroke=0EA5E9&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E)
